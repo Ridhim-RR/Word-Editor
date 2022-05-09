@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Word-Editor/static/css/main.073c9b0a.css",
+    "main.js": "/Word-Editor/static/js/main.6699c74a.js",
+    "static/js/787.719ec76d.chunk.js": "/Word-Editor/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Word-Editor/index.html",
+    "main.073c9b0a.css.map": "/Word-Editor/static/css/main.073c9b0a.css.map",
+    "main.6699c74a.js.map": "/Word-Editor/static/js/main.6699c74a.js.map",
+    "787.719ec76d.chunk.js.map": "/Word-Editor/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6699c74a.js"
+  ]
+}
